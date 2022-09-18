@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+body {
+    background-image: linear-gradient(
+        to bottom right,
+        #0522c7,
+        #2e5bd4b0,
+        #275799fa
+    );
+    font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+iframe {
+    display: none !important;
+}
