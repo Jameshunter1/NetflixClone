@@ -19,7 +19,7 @@ const Navbar = () => {
     return (
         <div className="flex items-center justify-between p-4 z-[100] w-full absolute">
             <Link to="/">
-                <h1 className="text-blue-600 text-4xl font-bold cursor-pointer">
+                <h1 className="text-blue-600 sm:text-4xl xxs:text-3xl font-bold cursor-pointer xxs:mr-5 sm:mr-4">
                     JAMESFLIX
                 </h1>
             </Link>
@@ -38,10 +38,10 @@ const Navbar = () => {
             ) : (
                 <div>
                     <Link to="/login">
-                        <button className="text-white pr-4 hover:scale-[1.3]  ">Sign In</button>
+                        <button className="text-white pr-4 hover:scale-[1.1]  xxs:mb-2">Sign In</button>
                     </Link>
                     <Link to="/signup">
-                        <button className="bg-blue-600 px-6 py-2 rounded cursor-pointer text-white hover:scale-125">
+                        <button className="bg-blue-600 px-4 py-2 rounded cursor-pointer text-white hover:scale-[1.1]  ">
                             Sign Up
                         </button>
                     </Link>
