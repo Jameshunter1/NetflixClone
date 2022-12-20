@@ -85,6 +85,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Tailwind CSS
 - Firebase
 - Firestore
+- TMDB (The Movie Database) API 
+
 
 ![netflix](https://user-images.githubusercontent.com/90528783/208747679-e58aa470-e1ae-4338-8bae-a3b4acfd6589.PNG)
 
