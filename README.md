@@ -1,8 +1,8 @@
-![netflix](https://user-images.githubusercontent.com/90528783/199357321-046ebb85-dbb7-4458-b66a-1798dcf9e826.PNG)
+# Netflix Clone Project
 
+This project is a React application that demonstrates my skills in the library. It includes a few basic features and connectivity and is intended as a portfolio piece.
 
-
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -72,3 +72,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Features
+
+- Login authentication
+- Database storage for users and liked movies
+- Login and sign up page
+
+# Technologies Used
+
+- React
+- Tailwind CSS
+- Firebase
+- Firestore
+
+
+
+
